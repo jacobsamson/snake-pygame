@@ -1,3 +1,4 @@
+import python3-tkinter
 import turtle
 import time
 import random
