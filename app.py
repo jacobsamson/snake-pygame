@@ -1,7 +1,7 @@
-import tkinter
-import turtle
-import time
-import random
+#import tkinter
+#import turtle
+#import time
+#import random
 
 delay = 0.1
 
