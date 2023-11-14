@@ -3,6 +3,8 @@
 #import time
 #import random
 
+from turtle import *
+
 delay = 0.1
 
 # Score
